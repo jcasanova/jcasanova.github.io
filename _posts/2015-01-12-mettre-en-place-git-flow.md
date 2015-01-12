@@ -35,6 +35,10 @@ Le script installe maintenant automatiquement le [git-flow-completion](https://g
 
 Et c'est tout ... il n'y a plus qu'à utiliser les commandes de git flow
 
+**Bonus**
+
+Pour utiliser git dans un shell dédié, essayer [git-sh](https://github.com/rtomayko/git-sh).
+
 ## Utilisation
 
 ### Initialisation du dépôt git
