@@ -13,3 +13,11 @@ Commençons par [homebrew](http://brew.sh), gestionnaire de packets que je vais 
 ## Shell
 
 [How To Configure Custom Connection Options for your SSH Client](https://www.digitalocean.com/community/tutorials/how-to-configure-custom-connection-options-for-your-ssh-client)
+
+[Git autocompletion](https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion)
+
+## AMP Stack
+
+### Apache
+
+[Better directory index](http://duganchen.ca/bootstrap-directory-index-skins-for-apache-and-ngnix/)

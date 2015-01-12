@@ -21,6 +21,6 @@ defaults:
       type: "brews"
     values:
       layout: "brew"
-      
+
 # Build settings
 markdown: kramdown
