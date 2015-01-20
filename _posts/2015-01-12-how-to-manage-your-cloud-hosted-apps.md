@@ -30,4 +30,5 @@ C'est en parcourant les articles et tutoriels de DigitalOcean que m'est venue l'
 
 [Manage Amazon and Digital Ocean Servers with Cloudways](https://www.ostraining.com/blog/general/cloudways/)
 
-[DigitalOcean]:	/go/digitalocean
+[DigitalOcean]:	http://www.digitalocean.com
+<!-- replace with /go/digitalocean -->
