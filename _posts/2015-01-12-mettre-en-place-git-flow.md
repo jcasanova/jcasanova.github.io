@@ -11,6 +11,8 @@ Après avoir mis en place le célèbre [Git branching model](http://nvie.com/pos
 
 Heureusement la procédure est également accompagnée d'un helper : [https://github.com/nvie/gitflow](https://github.com/nvie/gitflow)
 
+Référence : [Why aren't you using git-flow ?](http://jeffkreeftmeijer.com/2010/why-arent-you-using-git-flow/)
+
 ## Installation
 
 {% highlight bash %}
